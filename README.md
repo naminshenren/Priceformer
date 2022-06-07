@@ -12,7 +12,7 @@ Finally, `run.py` puts all of the above together and may be used to execute a fu
 `python3 -u run.py\   
 --is_training 1\
 --root_path ./dataset/Dataset/\
---data_path *Your data path*\
+--data_path **Your data path**\
 --model_id *Your model ID*\   
 --model Priceformer\
 --data *Your data name*\
