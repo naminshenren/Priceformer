@@ -31,6 +31,8 @@ Finally, `run.py` puts all of the above together and may be used to execute a fu
 --target *Your target*
 `.
 
+## Result on donggua Dataset
+![image](https://github.com/naminshenren/Priceformer/blob/master/test_results/40.pdf)
 
 ## Dependencies
 
